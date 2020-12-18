@@ -11,7 +11,7 @@ body {
 h1{
     text-align: center;
     font-family: 'Bebas Neue', cursiv;
-    font-size: 5em;
+    font-size: 4em;
     padding: 20px;
     letter-spacing: 0.2em;
     font-weight: bold;
@@ -21,7 +21,7 @@ h2 {
     font-family: 'Bebas Neue', cursiv;
     font-size: 2em;
     padding: 5px;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.1em;
     font-weight: bold;
 }
 div{
@@ -38,7 +38,7 @@ input {
     border: 2px solid black;
     border-radius: 10px;
     text-align: center;
-    font-size: 4em;
+    font-size: 3em;
     font-weight: bold;
     background-color: rgb(230, 230, 230);
     outline: none;
