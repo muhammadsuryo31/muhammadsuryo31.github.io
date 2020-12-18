@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    min-width: 100px;
 }
 body {
     background-color: #a6e9d7;
@@ -37,8 +38,10 @@ input {
     border: 2px solid black;
     border-radius: 10px;
     text-align: center;
-    font-size: 5em;
+    font-size: 4em;
+    font-weight: bold;
     background-color: rgb(230, 230, 230);
+    outline: none;
 }
 h3{
     font-family: 'Roboto', sans-serif;
@@ -49,4 +52,8 @@ h3{
     border-radius: 5px;
     display:inline-block;
     background-color: rgb(230, 230, 230);
+    text-align: center;
+}
+footer {
+    font-family: 'Roboto', sans-serif;
 }
